@@ -1,0 +1,12 @@
+import scrapy
+
+class QuotesSpider(scrapy.Spider):
+    name = "d2"
+    start_urls = [
+        'https://dota2.gamepedia.com/Status_resistance',
+    ]
+
+    def parse(self, response):
+        h2 = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/h2").getall()
+        print(h2)
+        

@@ -1,0 +1,267 @@
+Abaddon , Curse of Avernus' curse debuff
+Alchemist , Unstable Concoction
+Ancient Apparition , Cold Feet's stun
+Ancient Apparition , Chilling Touch
+Ancient Apparition , Ice Blast
+Ancient Thunderhide , Slam
+Anti-Mage , Mana Void's stun and cooldown debuffs
+Arc Warden , Spark Wraith
+Axe , Berserker's Call
+Bane , Nightmare's main and invulnerability debuffs
+Bane , Enfeeble
+Bane , Fiend's Grip
+Batrider , Sticky Napalm
+Batrider , Flamebreak's knockback
+Batrider , Flaming Lasso
+Beastmaster , Wild Axes
+Beastmaster , Primal Roar's primary and secondary target debuffs
+Bloodseeker , Bloodrage
+Bloodseeker , Blood Rite
+Bloodseeker , Rupture
+Boar , Poison
+Bounty Hunter , Shuriken Toss
+Bounty Hunter , Shadow Walk
+Bounty Hunter , Track
+Brewmaster , Thunder Clap
+Brewmaster , Cinder Brew's initial duration
+Bristleback , Viscous Nasal Goo
+Bristleback , Quill Spray
+Broodmother , Spawn Spiderlings
+Broodmother , Incapacitating Bite
+Centaur Conqueror , War Stomp
+Centaur Warrunner , Hoof Stomp
+Centaur Warrunner , Stampede's trample slow
+Chaos Knight , Chaos Bolt
+Chaos Knight , Reality Rift
+Chen , Penitence
+Clockwerk , Battery Assault's mini-stuns
+Clockwerk , Power Cogs' knockback
+Clockwerk , Hookshot
+Crystal Maiden , Crystal Nova
+Crystal Maiden , Frostbite
+Crystal Maiden , Freezing Field
+Dark Seer , Vacuum
+Dark Seer , Ion Shell
+Dark Seer , Wall of Replica
+Dark Troll Summoner , Ensnare
+Dark Willow , Bramble Maze
+Dark Willow , Cursed Crown's stun
+Dark Willow , Terrorize
+Dazzle , Bad Juju
+Death Prophet , Silence
+Death Prophet , Exorcism's Aghanim's Scepter slow
+Disruptor , Thunder Strike's slow
+Doom , Infernal Blade's stun
+Doom , Doom
+Dragon Knight , Breathe Fire
+Dragon Knight , Dragon Tail
+Dragon Knight , Elder Dragon Form's frost debuff
+Drow Ranger , Frost Arrows
+Drow Ranger , Gust's knockback and silence
+Drow Ranger , Multishot's Frost Arrows
+Earth , Hurl Boulder
+Earth Spirit , Boulder Smash's knockback and slow
+Earth Spirit , Rolling Boulder
+Earth Spirit , Geomagnetic Grip's silence
+Earth Spirit , Enchant Remnant
+Earthshaker , Fissure
+Earthshaker , Aftershock
+Elder Titan , Echo Stomp
+Elder Titan , Earth Splitter
+Ember Spirit , Searing Chains
+Enchantress , Enchant
+Enigma , Malefice's stun
+Faceless Void , Time Dilation
+Faceless Void , Time Lock
+Familiar , Stone Form
+Forged Spirit , Melting Strike
+Ghost , Frost Attack
+Grimstroke , Stroke of Fate
+Grimstroke , Phantom's Embrace's latch and silence durations
+Grimstroke , Ink Swell's stun
+Grimstroke , Soulbind
+Gyrocopter , Homing Missile
+Gyrocopter , Call Down
+Hellbear Smasher , Thunder Clap
+Huskar , Inner Fire
+Huskar , Life Break's slow and taunt
+Invoker , Cold Snap's stun
+Invoker , Tornado
+Invoker , Deafening Blast
+Io , Tether's slow
+Jakiro , Ice Path
+Keeper of the Light , Blinding Light's knockback and blind
+Keeper of the Light , Chakra Magic's mana leak debuff
+Kunkka , Torrent's slow
+Kunkka , X Marks the Spot
+Kunkka , Ghostship
+Legion Commander , Duel
+Leshrac , Split Earth
+Leshrac , Lightning Storm's slow
+Lich , Frost Blast
+Lich , Frost Shield
+Lich , Chain Frost
+Lifestealer , Open Wounds
+Lina , Light Strike Array
+Lion , Earth Spike
+Lion , Hex
+Lion , Mana Drain
+Lone Druid , Savage Roar
+Luna , Lucent Beam
+Luna , Eclipse's talent stun
+Lycan , Howl
+Magnus , Shockwave's pull and slow
+Magnus , Skewer's slow
+Magnus , Reverse Polarity
+Mars , Spear of Mars impale stun and secondary knockback
+Mars , God's Rebuke's knockback and slow
+Mars , Arena of Blood's knockback
+Medusa , Mystic Snake's slow and petrify
+Medusa , Stone Gaze's petrify
+Meepo , Earthbind
+Mirana , Sacred Arrow
+Monkey King , Boundless Strike
+Monkey King , Jingu Mastery
+Monkey King , Primal Spring
+Morphling , Adaptive Strike (Strength)
+Mud Golem , Hurl Boulder
+Naga Siren , Ensnare
+Naga Siren , Rip Tide
+Nature's Prophet , Wrath of Nature's Aghanim's Scepter treants debuff
+Necronomicon Archer , Purge
+Night Stalker , Void
+Nyx Assassin , Impale
+Nyx Assassin , Spiked Carapace
+Nyx Assassin , Vendetta
+Ogre Frostmage , Ice Armor's slow
+Ogre Magi , Fireblast
+Ogre Magi , Unrefined Fireblast
+Oracle , Fortune's End
+Oracle , Fate's Edict
+Outworld Destroyer , Astral Imprisonment
+Outworld Destroyer , Essence Flux
+Pangolier , Lucky Shot
+Pangolier , Rolling Thunder's stun
+Phantom Assassin , Stifling Dagger
+Phantom Lancer , Spirit Lance
+Phoenix , Supernova's stun
+Puck , Waning Rift
+Puck , Dream Coil's leash and stun debuffs
+Pudge , Dismember
+Pugna , Decrepify
+Queen of Pain , Scream of Pain's talent fear
+Queen of Pain , Sonic Wave's knockback
+Razor , Plasma Field's slow
+Razor , Eye of the Storm's armor reduction
+Roshan , Bash
+Roshan , Slam
+Rubick , Telekinesis' lift and stun debuffs
+Rubick , Fade Bolt
+Sand King , Burrowstrike
+Sand King , Caustic Finale's slow
+Sand King , Epicenter
+Satyr Banisher , Purge
+Shadow Demon , Disruption
+Shadow Demon , Soul Catcher
+Shadow Demon , Demonic Purge
+Shadow Fiend , Shadowraze
+Shadow Fiend , Requiem of Souls' slow and fear
+Shadow Shaman , Hex
+Shadow Shaman , Shackles
+Shard Golem , Hurl Boulder
+Silencer , Glaives of Wisdom
+Silencer , Last Word's silence
+Silencer , Global Silence
+Skywrath Mage , Concussive Shot
+Skywrath Mage , Ancient Seal
+Slardar , Slithereen Crush
+Slardar , Bash of the Deep
+Slardar , Corrosive Haze
+Slark , Pounce
+Slark , Essence Shift
+Snapfire , Scatterblast
+Snapfire , Firesnap Cookie's stun
+Snapfire , Lil' Shredder's first stack
+Snapfire , Mortimer Kisses
+Sniper , Headshot
+Sniper , Assassinate's stun
+Spectre , Spectral Dagger
+Spectre , Desolate
+Spiderling , Spawn Spiderite
+Spirit Bear , Entangling Claws
+Spirit Breaker , Charge of Darkness' stun
+Spirit Breaker , Greater Bash
+Storm , Cyclone
+Storm Spirit , Electric Vortex
+Storm Spirit , Overload
+Sven , Storm Hammer
+Techies , Stasis Trap
+Techies , Blast Off!
+Templar Assassin , Meld's armor reduction and talent stun
+Terrorblade , Reflection
+Terrorblade , Metamorphosis' Aghanim's Scepter fear
+Tidehunter , Gush
+Tidehunter , Anchor Smash
+Tidehunter , Ravage
+Timbersaw , Whirling Death
+Timbersaw , Chakram's slow while passing
+Timbersaw , Second Chakram's slow while passing
+Tinker , Laser
+Tinker , Heat-Seeking Missile's talent stun
+Treant Protector , Leech Seed
+Treant Protector , Overgrowth
+Troll Warlord , Berserker's Rage root
+Troll Warlord , Whirling Axes (Melee)
+Troll Warlord , Whirling Axes (Ranged)
+Troll Warlord , Battle Trance cast on enemy
+Tusk , Snowball's stun
+Tusk , Tag Team
+Tusk , Walrus PUNCH!'s slow
+Tusk , Walrus Kick's slow
+Underlord , Pit of Malice's root
+Undying Zombie , Deathlust
+Ursa , Earthshock
+Ursa , Fury Swipes
+Vengeful Spirit , Magic Missile
+Vengeful Spirit , Wave of Terror
+Vengeful Spirit , Nether Swap's Aghanim's Scepter fear
+Visage , Grave Chill
+Void Spirit , Dissimilate's talent stun
+Void Spirit , Astral Step
+Warlock , Fatal Bonds
+Warlock , Upheaval
+Warlock , Chaotic Offering's stun
+Windranger , Shackleshot
+Winter Wyvern , Splinter Blast
+Winter Wyvern , Winter's Curse on primary target
+Witch Doctor , Paralyzing Cask
+Wraith King , Wraithfire Blast's stun
+Wraith King , Reincarnation's slow
+Zeus , Lightning Bolt
+Abyssal Blade , Overwhelm
+Abyssal Blade , Bash
+Ballista , Knockback
+Blight Stone , Lesser Corruption
+Bloodthorn , Soul Rend
+Desolator , Corruption
+Diffusal Blade , Inhibit
+Dust of Appearance , Reveal
+Echo Sabre , Echo Strike
+Ethereal Blade , Ether Blast
+Eye of Skadi , Cold Attack
+Fallen Sky , Fallen Sky's stun
+Grove Bow , Magic Amp
+Heaven's Halberd , Disarm
+Medallion of Courage , Valor
+Meteor Hammer , Meteor Hammer's stun
+Mind Breaker , Silence Strike
+Nullifier , Nullify's main and slow debuffs
+Orb of Destruction , Impeding Corruption
+Orchid Malevolence , Soul Burn
+Rod of Atos , Cripple
+Scythe of Vyse , Hex
+Shiva's Guard , Arctic Blast
+Silver Edge , Shadow Walk's break debuff
+Skull Basher , Bash
+Stygian Desolator , Greater Corruption
+Veil of Discord , Magic Weakness
