@@ -30,5 +30,7 @@ class QuotesSpider(scrapy.Spider):
                 f.write(s)
         
         with open("other.txt", "w") as f:
-            s = '\n'.join(other)
+            s = '-'.join(other)
+            s = s.replace('- - -','\n')
+            s = s.replace('-\n-', '\n')
             f.write(s)
