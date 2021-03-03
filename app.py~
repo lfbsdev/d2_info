@@ -1,0 +1,10 @@
+import scrapy
+from scrapy.crawler import CrawlerProcess
+
+class TestSpider(scrapy.Spider):
+    name = 'd2_info'
+    
+if __name__ == "__main__":
+  process = CrawlerProcess()
+  process.crawl(TestSpider)
+  process.start()
