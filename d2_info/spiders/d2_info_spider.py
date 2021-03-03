@@ -11,10 +11,7 @@ class QuotesSpider(scrapy.Spider):
         dynamic = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[4]/div/ul/li/a/text()").getall()
         slow = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[5]/div/ul/li/a/text()").getall()
 
-        other_id = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[6]/div/ul/li/div/a/text()").getall()
-        other_description = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[6]/div/ul/li/div/i/span/text()").getall()
-
-        response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[6]/div/ul/li/div/i/span/a/text()").getall()
+        other = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[6]/div/ul/descendant-or-self::*/text()").getall()
 
 
         with open("reduced.txt", "w") as f:
@@ -33,8 +30,5 @@ class QuotesSpider(scrapy.Spider):
                 f.write(s)
         
         with open("other.txt", "w") as f:
-            for i in range(0, len(other_id), 2):
-                s = other_id[i] + " , " + other_id[i + 1] + "\n"
-                f.write(s)
-                s = other_description[i//2] + "\n"
-                f.write(s)
+            s = '\n'.join(other)
+            f.write(s)
