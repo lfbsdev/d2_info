@@ -13,7 +13,6 @@ class QuotesSpider(scrapy.Spider):
 
         other = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[6]/div/ul/descendant-or-self::*/text()").getall()
 
-
         with open("reduced.txt", "w") as f:
             for i in range(0,len(reduced), 2):
                 s = reduced[i] + " , " + reduced[i + 1] + "\n"
