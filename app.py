@@ -5,7 +5,7 @@ process = CrawlerProcess(get_project_settings())
 process.crawl('d2_info')
 process.start()
 
-stdin = input("Type heroes, items, creeps (ex: abbadon venge abyssal boar): ").split()
+stdin = input("Type heroes, items, creeps (ex: pudge bane abyssal boar): ").split()
 stdin = [arg.capitalize() for arg in stdin]
 
 print("\tReduced Duration:\n")
