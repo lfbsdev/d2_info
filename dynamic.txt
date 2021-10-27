@@ -1,0 +1,16 @@
+Ancient Apparition , Ice Blast
+Bane , Fiend's Grip
+Batrider , Flaming Lasso
+Brewmaster , Cinder Brew
+Crystal Maiden , Frostbite
+Dark Willow , Bramble Maze
+Doom , Doom
+Ember Spirit , Searing Chains
+Necronomicon Archer , Purge
+Pudge , Dismember
+Satyr Banisher , Purge
+Shadow Demon , Demonic Purge
+Shadow Shaman , Shackles
+Spirit Bear , Entangling Claws
+Treant Protector , Overgrowth
+Diffusal Blade , Inhibit

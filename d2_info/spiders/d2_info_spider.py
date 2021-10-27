@@ -3,16 +3,16 @@ import scrapy
 class QuotesSpider(scrapy.Spider):
     name = "d2_info"
     start_urls = [
-        'https://dota2.gamepedia.com/Status_resistance',
+        'https://dota2.fandom.com/wiki/Status_resistance',
     ]
 
     def parse(self, response):
-        reduced = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[3]/div/ul/li/a/text()").getall()
-        dynamic = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[4]/div/ul/li/a/text()").getall()
-        slow = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[5]/div/ul/li/a/text()").getall()
+        reduced = response.selector.xpath("//h2/span[@id='Duration_Reduced']/../following-sibling::div[1]/div/ul/li/a/text()").extract()
+        dynamic = response.selector.xpath("//h2/span[@id='Dynamic_Tick_Intervals']/../following-sibling::div[1]/div/ul/li/a/text()").extract()
+        slow = response.selector.xpath("//h2/span[@id='Slow_Values_Reduced']/../following-sibling::div[1]/div/ul/li/a/text()").extract()
 
-        other = response.selector.xpath("//*[@id='mw-content-text']/div/div[6]/div[6]/div/ul/descendant-or-self::*/text()").getall()
-
+        other = response.selector.xpath("//div[@class='skilllist skilllist-col2']/div/ul/li[@class='skilllist-rich']/descendant-or-self::*/text()").extract()
+        
         with open("reduced.txt", "w") as f:
             for i in range(0,len(reduced), 2):
                 s = reduced[i] + " , " + reduced[i + 1] + "\n"

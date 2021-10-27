@@ -11,6 +11,7 @@ BOT_NAME = 'd2_info'
 
 SPIDER_MODULES = ['d2_info.spiders']
 NEWSPIDER_MODULE = 'd2_info.spiders'
+LOG_LEVEL = 'WARNING'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

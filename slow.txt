@@ -1,0 +1,30 @@
+Arc Warden , Flux
+Axe , Battle Hunger
+Dazzle , Poison Touch
+Death Prophet , Spirit Siphon
+Enchantress , Untouchable
+Invoker , Ghost Walk
+Invoker , Ice Wall
+Jakiro , Dual Breath
+Jakiro , Liquid Fire
+Lion , Mana Drain
+Lycan Wolf , Cripple
+Ogre Magi , Ignite
+Omniknight , Degen Aura
+Phoenix , Icarus Dive
+Phoenix , Fire Spirits
+Pudge , Rot
+Queen of Pain , Shadow Strike
+Silencer , Arcane Curse
+Spiderling , Poison Sting
+Templar Assassin , Psionic Trap
+Tornado , Tempest
+Venomancer , Venomous Gale
+Venomancer , Poison Sting
+Viper , Poison Attack
+Viper , Corrosive Skin
+Viper , Viper Strike
+Winter Wyvern , Arctic Burn
+Wraith King , Wraithfire Blast
+Orb of Venom , Poison Attack
+Shiva's Guard , Freezing Aura

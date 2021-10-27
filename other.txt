@@ -1,0 +1,79 @@
+Rubick, Spell Steal
+
+
+Stolen Spell Debuff Duration Amplification
+: 10%/20%/30%
+
+
+Timeless Relic
+
+
+Debuff Duration Amplification
+: 25%
+
+
+Bane, Nightmare
+
+
+Reduces duration normally when cast on enemy. When transfered to another enemy via an attack command, the invulnerability modifier always uses the base duration and is then reduced by the new target's status resistance, while the Nightmare modifier copies the previous target's reduced duration, and then gets further reduced by the new target's status resistance.
+
+
+Beastmaster, Primal Roar
+
+
+Reduces duration of all debuffs it can place, on primary and secondary targets. On secondary targets, the knockback speed adapts to the reduced duration, so that the knockback distance is kept the same.
+
+
+Kunkka, X Marks the Spot
+
+
+Reduces the duration normally. When the target has more than 75% status resistance, it no longer gets automatically returned upon expiring.
+
+
+Lifestealer, Open Wounds
+
+
+Reduces the duration. The slow tick rate does not adapt to the reduced duration.
+
+
+Medallion of Courage, Valor
+
+
+Reduces the debuff duration on the target. The debuff on the caster does not adapt.
+
+
+Sand King, Caustic Finale
+
+
+When applied by attacks, only reduces the slow duration after the explosion. Does not affect the initial debuff. When applied with Burrowstrike, does reduce the initial debuff duration, on top of reducing the slow duration.
+
+
+Silencer, Glaives of Wisdom
+
+
+Self buff duration is reduced along with enemy debuff duration.
+
+
+Slark, Essence Shift
+
+
+Self buff duration is reduced along with enemy debuff duration.
+
+
+Solar Crest, Shine
+
+
+Reduces the debuff duration on the target. The penalties on the caster do not adapt.
+
+
+Spectre, Spectral Dagger
+
+
+Reduces trail creating debuff duration. When directly targeted, may reduce slow debuff duration. When not directly targeted, does not affect slow debuff.
+
+
+Templar Assassin, Psionic Trap
+
+
+When activated via the sub-spell on the caster or via Psionic Projection, only reduces the slow value. When activated via the sub-spell on the trap itself, reduces slow value and duration, and increases damage per tick.
+
